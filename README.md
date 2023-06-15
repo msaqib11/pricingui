@@ -1,3 +1,7 @@
+
+![Screenshot from 2023-06-15 13-09-56](https://github.com/msaqib11/pricingui/assets/79469984/6a934598-3df1-4953-af35-326ea8758f1c)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
